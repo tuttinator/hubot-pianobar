@@ -1,0 +1,15 @@
+{
+  "name": "hubot-pianobar",
+  "version": "0.0.1
+  "author": "Toby Cox",
+  "contributors": [
+    {
+      "name": "Caleb Tutty",
+      "email": "caleb@carnivallabs.com"
+    }
+  ],
+  "description": "A Hubot script for controlling Pianobar",
+  "keywords": ["hubot", "pianobar", "pandora"],
+  "homepage": "http://carnivalmobile.github.io/hubot-pianobar",
+  "license": "MIT"
+}
